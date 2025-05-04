@@ -1,0 +1,45 @@
+# ========== BACKEND (Spring Boot) ==========
+/backend/target/
+/backend/.idea/
+/backend/.classpath
+/backend/.project
+/backend/.settings/
+/backend/.vscode/
+/backend/build/
+/backend/HELP.md
+
+# STS & IntelliJ generated files
+/backend/.apt_generated
+/backend/.factorypath
+/backend/.springBeans
+/backend/.sts4-cache
+/backend/*.iws
+/backend/*.iml
+/backend/*.ipr
+
+# NetBeans
+/backend/nbproject/private/
+/backend/nbbuild/
+/backend/dist/
+/backend/nbdist/
+/backend/.nb-gradle/
+
+# Maven Wrapper
+/backend/.mvn/wrapper/maven-wrapper.jar
+
+# ========== FRONTEND (React) ==========
+/frontend/node_modules/
+/frontend/build/
+/frontend/.pnp
+/frontend/.pnp.js
+/frontend/.DS_Store
+/frontend/.env
+/frontend/.env.*.local
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/coverage
+
+# ========== GENERAL ==========
+.env
+.DS_Store
