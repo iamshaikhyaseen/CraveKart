@@ -1,44 +1,44 @@
-# ========== BACKEND (Spring Boot) ==========
-/backend/target/
-/backend/.idea/
-/backend/.classpath
-/backend/.project
-/backend/.settings/
-/backend/.vscode/
-/backend/build/
-/backend/HELP.md
+# ========== backend-spring-boot (Spring Boot) ==========
+/backend-spring-boot/target/
+/backend-spring-boot/.idea/
+/backend-spring-boot/.classpath
+/backend-spring-boot/.project
+/backend-spring-boot/.settings/
+/backend-spring-boot/.vscode/
+/backend-spring-boot/build/
+/backend-spring-boot/HELP.md
 
 # STS & IntelliJ generated files
-/backend/.apt_generated
-/backend/.factorypath
-/backend/.springBeans
-/backend/.sts4-cache
-/backend/*.iws
-/backend/*.iml
-/backend/*.ipr
+/backend-spring-boot/.apt_generated
+/backend-spring-boot/.factorypath
+/backend-spring-boot/.springBeans
+/backend-spring-boot/.sts4-cache
+/backend-spring-boot/*.iws
+/backend-spring-boot/*.iml
+/backend-spring-boot/*.ipr
 
 # NetBeans
-/backend/nbproject/private/
-/backend/nbbuild/
-/backend/dist/
-/backend/nbdist/
-/backend/.nb-gradle/
+/backend-spring-boot/nbproject/private/
+/backend-spring-boot/nbbuild/
+/backend-spring-boot/dist/
+/backend-spring-boot/nbdist/
+/backend-spring-boot/.nb-gradle/
 
 # Maven Wrapper
-/backend/.mvn/wrapper/maven-wrapper.jar
+/backend-spring-boot/.mvn/wrapper/maven-wrapper.jar
 
-# ========== FRONTEND (React) ==========
-/frontend/node_modules/
-/frontend/build/
-/frontend/.pnp
-/frontend/.pnp.js
-/frontend/.DS_Store
-/frontend/.env
-/frontend/.env.*.local
-/frontend/npm-debug.log*
-/frontend/yarn-debug.log*
-/frontend/yarn-error.log*
-/frontend/coverage
+# ========== frontend-react (React) ==========
+/frontend-react/node_modules/
+/frontend-react/build/
+/frontend-react/.pnp
+/frontend-react/.pnp.js
+/frontend-react/.DS_Store
+/frontend-react/.env
+/frontend-react/.env.*.local
+/frontend-react/npm-debug.log*
+/frontend-react/yarn-debug.log*
+/frontend-react/yarn-error.log*
+/frontend-react/coverage
 
 # ========== GENERAL ==========
 .env
